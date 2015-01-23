@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://surg.github.io/atom.xml" rel="self"/>
   <link href="http://surg.github.io/"/>
-  <updated>2015-01-23T16:01:29+02:00</updated>
+  <updated>2015-01-23T16:14:36+02:00</updated>
   <id>http://surg.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Disconnect.]]></title>
+    <link href="http://surg.github.io/blog/2015/01/23/disconnect/"/>
+    <updated>2015-01-23T16:07:39+02:00</updated>
+    <id>http://surg.github.io/blog/2015/01/23/disconnect</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
