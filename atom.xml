@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Opinionated Chipmunk]]></title>
-  <link href="http://surg.github.io/atom.xml" rel="self"/>
-  <link href="http://surg.github.io/"/>
-  <updated>2015-01-23T16:59:00+02:00</updated>
-  <id>http://surg.github.io/</id>
+  <link href="http://blog.jurgen.org.ua/atom.xml" rel="self"/>
+  <link href="http://blog.jurgen.org.ua/"/>
+  <updated>2015-01-23T17:10:22+02:00</updated>
+  <id>http://blog.jurgen.org.ua/</id>
   <author>
     <name><![CDATA[Yury Lytvynenko]]></name>
     

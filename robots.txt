@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://surg.github.io/sitemap.xml 
+Sitemap: http://blog.jurgen.org.ua/sitemap.xml 
