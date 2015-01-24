@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Opinionated Chipmunk]]></title>
-  <link href="http://blog.jurgen.org.ua/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Personal | Opinionated Chipmunk]]></title>
+  <link href="http://blog.jurgen.org.ua/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://blog.jurgen.org.ua/"/>
   <updated>2015-01-24T14:41:40+02:00</updated>
   <id>http://blog.jurgen.org.ua/</id>
@@ -18,7 +18,7 @@
     <link href="http://blog.jurgen.org.ua/blog/2015/01/23/disconnect/"/>
     <updated>2015-01-23T19:41:05+02:00</updated>
     <id>http://blog.jurgen.org.ua/blog/2015/01/23/disconnect</id>
-    <content type="html"><![CDATA[<p><img src="http://blog.jurgen.org.ua/images/posts/disconnect_1.jpg"></p>
+    <content type="html"><![CDATA[<p><img src="/images/posts/disconnect_1.jpg"></p>
 
 <p>Это мой основной телефон уже 4 дня. Провожу бесчеловечный эксперимент над собой.</p>
 
@@ -61,7 +61,7 @@
 </ul>
 
 
-<p><img class="left" src="http://blog.jurgen.org.ua/images/posts/disconnect_2.jpg" width="320"></p>
+<p><img class="left" src="/images/posts/disconnect_2.jpg" width="320"></p>
 
 <ul>
 <li>И наконец, батарея. Батарея, батарея, батарея! Она 3 (!!!) дня держалась на одном уровне. Потом на единичку отступила.</li>
